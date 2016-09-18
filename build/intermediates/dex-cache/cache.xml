@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Alberto/Documents/AndroidStudio/Calculadora/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/Alberto/Documents/AndroidStudio/Calculadora/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_7c289a9d28f96583696b377b43a5e3dfd3c127e7.jar" />
+    </item>
+    <item
+        jar="/Users/Alberto/Documents/AndroidStudio/Calculadora/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/Alberto/Documents/AndroidStudio/Calculadora/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_332d6b443e2470a172f730fe63774d8a108f0bd8.jar" />
+    </item>
+    <item
+        jar="/Users/Alberto/Documents/AndroidStudio/Calculadora/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d80b1450d56fbbd437862c809145b839923115d0">
+        <dex dex="/Users/Alberto/Documents/AndroidStudio/Calculadora/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_5ef500b8d50702be93d56584d6f8d6373c0da515.jar" />
+    </item>
+    <item
+        jar="/Users/Alberto/Documents/AndroidStudio/Calculadora/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0b35de8baec0d06cfb7911c8225f009bf21062ec">
+        <dex dex="/Users/Alberto/Documents/AndroidStudio/Calculadora/app/build/intermediates/pre-dexed/debug/instant-run_af509760744bd02b9c41fb0a95afef1a40219983.jar" />
+    </item>
+    <item
+        jar="/Users/Alberto/Documents/AndroidStudio/Calculadora/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/Alberto/Documents/AndroidStudio/Calculadora/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_307daf1e4dc4e7a741ed8a0d9470c9edd2b7caf3.jar" />
+    </item>
+    <item
+        jar="/Users/Alberto/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/Alberto/Documents/AndroidStudio/Calculadora/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_4ff1efe91b64f105dddb869ddcd03fd89aca7bd2.jar" />
+    </item>
+    <item
+        jar="/Users/Alberto/Documents/AndroidStudio/Calculadora/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/Alberto/Documents/AndroidStudio/Calculadora/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_9123ac31b35bd85cc5e68e40552c694acd69d03b.jar" />
+    </item>
+    <item
+        jar="/Users/Alberto/Documents/AndroidStudio/Calculadora/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/Alberto/Documents/AndroidStudio/Calculadora/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_3ad101d4bfd0efb3ee104bc8b12f1ad0452b898c.jar" />
+    </item>
+
+</items>

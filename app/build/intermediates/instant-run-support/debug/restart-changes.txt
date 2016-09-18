@@ -1,0 +1,2 @@
+CHANGED,/Users/Alberto/Documents/AndroidStudio/Calculadora/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/mx/ayacercode/operaciones/operaciones.class
+CHANGED,/Users/Alberto/Documents/AndroidStudio/Calculadora/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/mx/ayacercode/calculadora/MainActivity.class
